@@ -1,0 +1,100 @@
+classic pop and rock,disgust,11995
+classic pop and rock,anger,16485
+classic pop and rock,surprise,18972
+classic pop and rock,fear,20553
+classic pop and rock,sadness,23515
+classic pop and rock,trust,34112
+classic pop and rock,negative,38729
+classic pop and rock,anticipation,39120
+classic pop and rock,joy,44435
+classic pop and rock,positive,65908
+classical,disgust,64
+classical,surprise,97
+classical,anger,99
+classical,joy,117
+classical,fear,118
+classical,sadness,122
+classical,trust,124
+classical,anticipation,139
+classical,positive,198
+classical,negative,212
+dance and electronica,disgust,1251
+dance and electronica,surprise,1450
+dance and electronica,anger,1461
+dance and electronica,fear,1645
+dance and electronica,sadness,1783
+dance and electronica,trust,2462
+dance and electronica,anticipation,2925
+dance and electronica,joy,2935
+dance and electronica,negative,3262
+dance and electronica,positive,4499
+folk,disgust,5287
+folk,anger,7393
+folk,surprise,7712
+folk,fear,9351
+folk,sadness,10883
+folk,trust,15078
+folk,anticipation,16832
+folk,joy,17373
+folk,negative,17425
+folk,positive,27548
+hip-hop,surprise,381
+hip-hop,disgust,458
+hip-hop,joy,488
+hip-hop,sadness,547
+hip-hop,fear,631
+hip-hop,trust,645
+hip-hop,anticipation,697
+hip-hop,anger,708
+hip-hop,positive,1142
+hip-hop,negative,1209
+jazz and blues,disgust,483
+jazz and blues,anger,556
+jazz and blues,fear,798
+jazz and blues,surprise,813
+jazz and blues,sadness,943
+jazz and blues,trust,1481
+jazz and blues,negative,1531
+jazz and blues,anticipation,1721
+jazz and blues,joy,2137
+jazz and blues,positive,3043
+metal,surprise,2433
+metal,disgust,3471
+metal,joy,3833
+metal,anger,4683
+metal,trust,4751
+metal,anticipation,5267
+metal,sadness,6132
+metal,fear,6814
+metal,positive,7569
+metal,negative,10534
+pop,surprise,645
+pop,disgust,927
+pop,trust,1184
+pop,anger,1197
+pop,anticipation,1250
+pop,sadness,1273
+pop,fear,1324
+pop,joy,1482
+pop,negative,2260
+pop,positive,2444
+punk,surprise,1221
+punk,disgust,1345
+punk,anger,1919
+punk,joy,2288
+punk,trust,2293
+punk,anticipation,2385
+punk,sadness,2419
+punk,fear,2558
+punk,positive,3911
+punk,negative,4550
+soul and reggae,disgust,2219
+soul and reggae,surprise,3273
+soul and reggae,anger,3574
+soul and reggae,sadness,3742
+soul and reggae,fear,3955
+soul and reggae,trust,6016
+soul and reggae,anticipation,6459
+soul and reggae,negative,7194
+soul and reggae,joy,8516
+soul and reggae,positive,12829

@@ -1,4 +1,4 @@
-Introduction: 
+Introduction:
 We believe that to some extent, music has relationship with its origin place. This is why we started to analyze the connection between music and geography. 
 This part has two focuses: 
 1. The location mentioned in lyrics and reviews.

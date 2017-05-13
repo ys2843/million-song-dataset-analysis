@@ -1,5 +1,5 @@
 Goal:
-1.Show the trends of music development
+1. Show the trends of music development
 Nowadays, music industry is a growing and prosperity field which has huge profit for investing. There are thousands of albums issued every year. We want to show the trends of music industry development by analysing million songs dataset. Our result, the graph of the number of albums issued per year since 1920 reflects the market growth of music industry.
 2. Analyze which music genre has higher business value
 We try to figure out a best solution for artist, investors to get more profit in music industry.  We find out that different music genre has different business value and some certain genre is much more popular than others and can also make artist more popular. We compare the top 5 popular genre by play count and search heat from google and we find the most profitable genre of all time.
